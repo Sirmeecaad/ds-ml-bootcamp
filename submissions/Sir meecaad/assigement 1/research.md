@@ -94,7 +94,7 @@ It provides a realistic small-scale dataset that can be used for **data preproce
 The dataset includes **real-world messiness**:
 - **Missing values** → some students skipped questions.  
 - **Inconsistent formats** → e.g., “6 hrs” instead of `6`.  
-- **Categorical variation** → typos like `"Hgh"` or `"Mediumm"`.  
+- **Categorical variation** → typos like `"Hgh"` or `"Mediumm"`.  .
 - **Class imbalance** → more students rated themselves `"Medium"`.  .
 - **Outliers** → e.g., `12 hours of phone usage`.  .
 
