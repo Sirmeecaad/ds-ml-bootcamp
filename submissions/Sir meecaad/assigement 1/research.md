@@ -96,7 +96,7 @@ The dataset includes **real-world messiness**:
 - **Inconsistent formats** → e.g., “6 hrs” instead of `6`.  
 - **Categorical variation** → typos like `"Hgh"` or `"Mediumm"`.  
 - **Class imbalance** → more students rated themselves `"Medium"`.  
-- **Outliers** → e.g., `12 hours of phone usage`.  
+- **Outliers** → e.g., `12 hours of phone usage`.  .
 
 ---
 
