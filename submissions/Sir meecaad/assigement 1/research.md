@@ -88,7 +88,7 @@ It provides a realistic small-scale dataset that can be used for **data preproce
 | 24  | 5           | 5           | 9           | 2        | Low          |
 | 22  | 1           | 5           | 2           | 0        | High         |
 
----
+---.
 
 ##  Data Quality Issues
 The dataset includes **real-world messiness**:
