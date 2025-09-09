@@ -6,7 +6,7 @@ It provides a realistic small-scale dataset that can be used for **data preproce
 
 ---
 
-## Collection Method
+## Collection Method.
 - Collected manually through a **Google Forms survey**.  
 - **52 participants** (students from a local community and study group).  
 - Responses were recorded into a spreadsheet.  
