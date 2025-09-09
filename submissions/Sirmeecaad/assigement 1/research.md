@@ -100,7 +100,7 @@ The dataset includes **real-world messiness**:
 
 ---
 
-##  Potential Use Cases
+##  Potential Use Cases.
 - **Classification** → Predict productivity level (`Low`, `Medium`, `High`).  
 - **Regression** → Convert productivity to numeric scale and predict exact scores.  
 - **Clustering** → Group students into lifestyle categories (e.g., *Night Owls*, *Balanced Learners*).  
@@ -114,4 +114,4 @@ This dataset provides a **practical foundation** for exploring:
 - Supervised ML models (classification & regression)  
 - Unsupervised learning (clustering)  
 
----guuled meecaad
+---guuled meecaad.
